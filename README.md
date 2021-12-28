@@ -31,5 +31,3 @@ The project is the first project in the Web developer professional track course 
 
 # Contacts
 Name   : Wael Ibarahim Abdlmeged
-E mail : tatweir15@gmail.com
-Phone  : +20 1000 47 8282
